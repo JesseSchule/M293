@@ -1,0 +1,15 @@
+.unlist{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.mittig{
+    text-align: center;
+}
+
+.farbe{
+    color: blue;
+}
+
+.gradient{
+    background:linear-gradient(#ce31b1, #5c62cd);
+}
