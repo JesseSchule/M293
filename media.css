@@ -1,0 +1,66 @@
+#titel{
+    font-size: 6rem;
+}
+
+body {
+    color: red;
+}
+
+@media (max-width: 500px){
+    body{
+        color: blue;
+    }
+}
+
+@media (max-width: 580px){
+    body{
+        color: green
+    }
+}
+@media (max-width: 660px){
+    body{
+        color: yellow
+    }
+}
+@media (max-width: 720px){
+    body{
+        color: white
+    }
+}
+@media (max-width: 800px){
+    body{
+        color: black
+    }
+}
+@media (max-width: 880px){
+    body{
+        color: purple
+    }
+}
+@media (max-width: 960px){
+    body{
+        color: pink
+    }
+}
+@media (max-width: 1040px){
+    body{
+        color: red
+    }
+}
+@media (max-width: 1120px){
+    body{
+        color: cyan
+    }
+}
+@media (max-width: 1250px){
+    body{
+        color: grey
+    }
+}
+@media (max-width: 1400Spx){
+    body{
+        color: orange
+    }
+}
+
+
