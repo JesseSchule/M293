@@ -1,0 +1,32 @@
+#foto_wels{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+}
+#foto_wels2{
+    .responsive-img {
+  width: 100%;
+  height: auto;
+}
+
+
+@media (max-width: 600px) {
+  .responsive-img {
+    max-width: 400px;
+  }
+}
+
+
+@media (max-width: 1000px) {
+  .responsive-img {
+    max-width: 800px;
+  }
+}
+
+
+@media (min-width: 1001px) {
+  .responsive-img {
+    max-width: 1200px;
+  }
+}
+}
